@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-burger-menu": "^2.9.2",
+    "react-sidebar-ui": "^1.3.3"
+  }
+}
